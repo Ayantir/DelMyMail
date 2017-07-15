@@ -1,0 +1,13 @@
+﻿; This Add-on is not created by, affiliated with or sponsored by ZeniMax
+; Media Inc. or its affiliates. The Elder Scrolls® and related logos are
+; registered trademarks or trademarks of ZeniMax Media Inc. in the United
+; States and/or other countries. All rights reserved.
+; You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
+
+## Title: DelMyMail
+## Description: Delete confirmation popup when you want to delete a mail without money or attachement
+## Version: 12
+## Author: Ayantir
+## APIVersion: 100019 100020
+
+DelMyMail.lua

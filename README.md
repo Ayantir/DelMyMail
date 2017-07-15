@@ -1,1 +1,1 @@
-# DelMyMail
+DelMyMail simply suppress the dialog window when you want to delete a mail without money or attachement.
