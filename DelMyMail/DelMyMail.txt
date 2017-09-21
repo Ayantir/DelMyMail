@@ -6,8 +6,8 @@
 
 ## Title: DelMyMail
 ## Description: Delete confirmation popup when you want to delete a mail without money or attachement
-## Version: 12
+## Version: 13
 ## Author: Ayantir
-## APIVersion: 100019 100020
+## APIVersion: 100020 100021
 
 DelMyMail.lua
